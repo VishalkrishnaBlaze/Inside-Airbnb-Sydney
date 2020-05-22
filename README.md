@@ -9,3 +9,6 @@ Data  | Details
 ------------- | -------------
 listings.csv  | Detailed Listings data for Sydney
 reviews.csv  | Detailed Review Data for listings in Sydney
+
+## Blog
+A blog on Medium with an Explanatory data Analysis on Airbnb data on Sydney can be found in this [Link](https://medium.com/@vishalkrishna.bhosle/analysis-of-airbnb-in-sydney-f49065373ca2).
