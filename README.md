@@ -2,7 +2,7 @@
 
 ## Getting Data
 
-I found the data on Insideairbnb.com which is an independent, non-commercial set of tools and data to explore how Airbnb is really being used in cities around the world. The data can be downloaded from this ([link](http://insideairbnb.com/get-the-data.html)).
+I found the data on Insideairbnb.com which is an independent, non-commercial set of tools and data to explore how Airbnb is really being used in cities around the world. The data can be downloaded from this [link](http://insideairbnb.com/get-the-data.html).
 
 ## Data Desctiption
 Data  | Details
